@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://rule34.xxx/counter/0.gif"/>
+    <img src="https://rule34.xxx/counter/6.gif"/>
+    <img src="https://rule34.xxx/counter/3.gif"/>
+    <img src="https://rule34.xxx/counter/9.gif"/>
 
-<!--
-**yinmus/yinmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<sub>
+    <p align="center">
+        <i>
+            Visitors since 2025-01-01
+        </i>
+    </p>
+</sub>
