@@ -4,12 +4,4 @@
     <img src="https://rule34.xxx/counter/3.gif"/>
     <img src="https://rule34.xxx/counter/9.gif"/>
 
-
-</div>
-<sub>
-    <p align="center">
-        <i>
-            Visitors since 2025-01-01
-        </i>
-    </p>
-</sub>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinmus&layout=compact)](https://github.com/yinmus/github-readme-stats)
