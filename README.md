@@ -4,5 +4,5 @@
     <img src="https://rule34.xxx/counter/3.gif"/>
     <img src="https://rule34.xxx/counter/9.gif"/>
         
-![Tl](https://github-readme-stats.vercel.app/api/top-langs/?username=yinmus&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinmus)](https://github.com/yinmus/yinmus/README.md)
 </div>
