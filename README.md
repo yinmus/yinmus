@@ -4,7 +4,7 @@
     <img src="https://rule34.xxx/counter/3.gif"/>
     <img src="https://rule34.xxx/counter/9.gif"/>
         
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinmus&layout=compact&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinmus&layout=compact&cache_seconds=1800)
 </div>
 
 
