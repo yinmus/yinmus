@@ -8,7 +8,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinmus&layout=compact&langs_count=12&cache_seconds=1)
+#![Top #Langs](https://github-readme-stats.vercel.app/api#/top-langs/?username=yinmus&layout=compact&langs#_count=12&cache_seconds=1)
 
 </div>
 
